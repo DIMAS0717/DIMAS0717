@@ -117,8 +117,8 @@
 ### 3. Coffee-Shop
 [Ver repositorio](https://github.com/ArthurRomulus/PI3)
 
-<img src="assets°  
-<br>
+
+<img src="assets/cofeshop.png" width="500"/>
 
 ### 📊 &nbsp; STATS
 
