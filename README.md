@@ -4,12 +4,10 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+  <h4 align="center"><b>"graduate of the University of Colima"</b>
+  Location: Manzanillo colima. MEX</h4>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="" />
-</p>
 
 <p align="center">
 <br>
