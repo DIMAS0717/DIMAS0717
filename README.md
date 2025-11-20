@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+    <img align="center" alt="visitors" src="" />
 </p>
 
 <p align="center">
@@ -100,8 +100,8 @@
 ### :zap: Recent Github Proyect
   
 <!--START_SECTION:activity-->
-1.  Club-Santiago(Rentas,casas y villas) [#1]([https://github.com/codeSTACKr/goal-manager-react/pull/1](https://github.com/DIMAS0717/Club-Santiago)) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. Paz-Justicia-Blog [#2]([https://github.com/t-satwik/Python-programs/pull/1](https://github.com/Mukinma/Paz-Justicia-Blog)) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
+1.  Club-Santiago(Rentas,casas y villas) [#1]in [Club-santiago]([https://github.com/codeSTACKr/goal-manager-react/pull/1](https://github.com/DIMAS0717/Club-Santiago))
+2. Paz-Justicia-Blog [#2] in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
 3. 🗣 Coffee-Shop [#3]([https://github.com/dwyl/start-here/issues/143](https://github.com/ArthurRomulus/PI3)) in [dwyl/start-here](https://github.com/dwyl/start-here)
 <!--END_SECTION:activity-->
 
