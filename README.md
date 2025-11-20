@@ -73,9 +73,13 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=DIMAS0717&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DIMAS0717&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=DIMAS0717&theme=tokyonight)
+
 
 
 
@@ -96,14 +100,25 @@
 -->
 
 <br>
+## ⚡ Recent Github Projects
 
-### :zap: Recent Github Proyect
-  
-<!--START_SECTION:activity-->
-1.  Club-Santiago(Rentas,casas y villas) [#1]in [Club-santiago]([https://github.com/codeSTACKr/goal-manager-react/pull/1](https://github.com/DIMAS0717/Club-Santiago))
-2. Paz-Justicia-Blog [#2] in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Coffee-Shop [#3]([https://github.com/dwyl/start-here/issues/143](https://github.com/ArthurRomulus/PI3)) in [dwyl/start-here](https://github.com/dwyl/start-here)
-<!--END_SECTION:activity-->
+### 1. Club-Santiago (Rentas, casas y villas)
+[Ver repositorio](https://github.com/DIMAS0717/Club-Santiago)
+
+<img src="URL_DE_IMAGEN_1" width="500"/>
+
+
+### 2. Paz-Justicia-Blog
+[Ver repositorio](https://github.com/Mukinma/Paz-Justicia-Blog))
+
+<img src="URL_DE_IMAGEN_2" width="500"/>
+
+
+### 3. Coffee-Shop
+[Ver repositorio](https://github.com/ArthurRomulus/PI3)
+
+<img src="URL_DE_IMAGEN_3" width="500"/>
+
 
 <br>
 
