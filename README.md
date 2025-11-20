@@ -105,19 +105,19 @@
 ### 1. Club-Santiago (Rentas, casas y villas)
 [Ver repositorio](https://github.com/DIMAS0717/Club-Santiago)
 
-<img src="URL_DE_IMAGEN_1" width="500"/>
+<img src="assets/clubsan.png" width="500"/>
 
 
 ### 2. Paz-Justicia-Blog
 [Ver repositorio](https://github.com/Mukinma/Paz-Justicia-Blog))
 
-<img src="URL_DE_IMAGEN_2" width="500"/>
+<img src="assets/paz-blog.png" width="500"/>
 
 
 ### 3. Coffee-Shop
 [Ver repositorio](https://github.com/ArthurRomulus/PI3)
 
-<img src="URL_DE_IMAGEN_3" width="500"/>
+<img src="cofeshop.png" width="500"/>
 
 
 <br>
