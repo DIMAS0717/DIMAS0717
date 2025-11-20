@@ -97,12 +97,12 @@
 
 <br>
 
-### :zap: Recent Github Activity
+### :zap: Recent Github Proyect
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
+1.  Club-Santiago(Rentas,casas y villas) [#1]([https://github.com/codeSTACKr/goal-manager-react/pull/1](https://github.com/DIMAS0717/Club-Santiago)) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
+2. Paz-Justicia-Blog [#2]([https://github.com/t-satwik/Python-programs/pull/1](https://github.com/Mukinma/Paz-Justicia-Blog)) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
+3. 🗣 Coffee-Shop [#3]([https://github.com/dwyl/start-here/issues/143](https://github.com/ArthurRomulus/PI3)) in [dwyl/start-here](https://github.com/dwyl/start-here)
 <!--END_SECTION:activity-->
 
 <br>
@@ -145,13 +145,13 @@
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 <!--START_SECTION_LANGUAGE:readme-info-->
-**My 💖 languages Python** 
+**My 💖 languages HTML** 
 
 | | | | |
 | --- | --- | --- | --- |
-|Python                   |10 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
-|HTML                     |7 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
-|JavaScript               |1 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
+|HTML                     |60 repos|            ![](https://via.placeholder.com/224x22/000000/000000?text=+)![](https://via.placeholder.com/176x22/b8b8b8/b8b8b8?=text=+)|55.56%|
+|PHP                      |47 repos|             ![](https://via.placeholder.com/156x22/000000/000000?text=+)![](https://via.placeholder.com/244x22/b8b8b8/b8b8b8?=text=+)|38.89%|
+|JavaScript               |30 repos|             ![](https://via.placeholder.com/24x22/000000/000000?text=+)![](https://via.placeholder.com/376x22/b8b8b8/b8b8b8?=text=+)|5.56%|
 | | | | |
 
 <!--END_SECTION_LANGUAGE:readme-info-->
