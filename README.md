@@ -103,7 +103,8 @@
 ### 1. Club-Santiago (Rentas, casas y villas)
 [Ver repositorio](https://github.com/DIMAS0717/Club-Santiago)
 
-<img src="assets/clubsan.png" width="500"/>
+<img src="assets/propiedades.png" width="500"/>
+<img src="assets/contactanos.png" width="500"/>
 
 
 ### 2. Paz-Justicia-Blog
